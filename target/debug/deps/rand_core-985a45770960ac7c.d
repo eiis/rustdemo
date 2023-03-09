@@ -1,0 +1,10 @@
+/Users/zhangdashu/Desktop/rust/guessing_game/target/debug/deps/rand_core-985a45770960ac7c.rmeta: /Users/zhangdashu/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/rand_core-0.6.4/src/lib.rs /Users/zhangdashu/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/rand_core-0.6.4/src/block.rs /Users/zhangdashu/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/rand_core-0.6.4/src/error.rs /Users/zhangdashu/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/rand_core-0.6.4/src/impls.rs /Users/zhangdashu/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/rand_core-0.6.4/src/le.rs /Users/zhangdashu/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/rand_core-0.6.4/src/os.rs
+
+/Users/zhangdashu/Desktop/rust/guessing_game/target/debug/deps/rand_core-985a45770960ac7c.d: /Users/zhangdashu/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/rand_core-0.6.4/src/lib.rs /Users/zhangdashu/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/rand_core-0.6.4/src/block.rs /Users/zhangdashu/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/rand_core-0.6.4/src/error.rs /Users/zhangdashu/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/rand_core-0.6.4/src/impls.rs /Users/zhangdashu/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/rand_core-0.6.4/src/le.rs /Users/zhangdashu/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/rand_core-0.6.4/src/os.rs
+
+/Users/zhangdashu/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/rand_core-0.6.4/src/lib.rs:
+/Users/zhangdashu/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/rand_core-0.6.4/src/block.rs:
+/Users/zhangdashu/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/rand_core-0.6.4/src/error.rs:
+/Users/zhangdashu/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/rand_core-0.6.4/src/impls.rs:
+/Users/zhangdashu/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/rand_core-0.6.4/src/le.rs:
+/Users/zhangdashu/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/rand_core-0.6.4/src/os.rs:
